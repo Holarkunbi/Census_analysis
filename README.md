@@ -38,9 +38,9 @@ flowchart TD
 ```
 ### Data Preprocessing
 * installed packages for visualazation of the variable
-'''
+```
 pip install pandas-profiling
-'''
+```
 ## RECOMMENDATION
 With the high population of lodgers coming to the town, university students, PhD students and skilled professionals are leaving the town for the city. Building a train station will help create jobs for the unemployed, reduce congestion, improve productivity, and expand travel choices.
 The town population have about 22% Christian, and most of them are between the ages 20 and above; it is likely that the religion will grow in future years. The town will need another religious centre for the Christians, considering their population, and this will help the town increase the number Christians migration.
